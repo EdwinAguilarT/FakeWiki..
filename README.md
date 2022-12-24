@@ -45,7 +45,7 @@
   <tr><td><strong>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS:</strong><br>
   <ul>
     <h1>  Index.html  </h1> 
-      <p>Gli astrofisici dicono che quasi tutto lóro che ce sulla terra sia arrivato quatro milliardi di anni fa, in una piogia <br> di meteoriti. E forse por quel arrivo cosi violento e che questo sia estato sempre un metallo maledeto, per nient'altro <br> si a uciso cosi tanto come per il metallo usato per la proposta di matrimonio. </p>
+      <p>Gli astrofisici dicono che quasi tutto lóro che ce sulla terra sia arrivato quatro milliardi di anni fa, in una    piogia  di meteoriti. E forse por quel arrivo cosi violento e che questo sia estato sempre un metallo maledeto, per nient'altro si a uciso cosi tanto come per il metallo usato per la proposta di matrimonio. </p>
           <img src="img/fondo.png" width="800" height="700" />
     <h1>  cgi-bin  </h1>
       <ol> 
