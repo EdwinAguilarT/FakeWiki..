@@ -8,11 +8,25 @@
   </head>
   <body>
     <div class="login">
-      <div class="form">
-        <form action="./cgi-bin/edit.pl" method="POST">
+      <div class="form" style="max-width: 500px;">
+        <form action="./cgi-bin/update.pl" method="POST">
           <label for="title">Título: </label>
           <input type="text" name="title" required /><br />
-          <label for="owner">Usuario: </label>
+          <label for="text">Texto: </label>
+          <textarea
+            rows="20"
+            type="text"
+            name="text"
+            required
+            style="
+              width: 410px;
+              max-width: 410px;
+              min-height: 360px;
+              margin-bottom: 15px;
+            "
+          ></textarea
+          ><br />
+          <label for="owner" style="margin-top: 15px;">Usuario: </label>
           <input type="text" name="owner" required /><br />
           <input type="submit" value="Enviar" />
         </form>
