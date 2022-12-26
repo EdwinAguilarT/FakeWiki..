@@ -26,7 +26,7 @@
  </theader>
  <tbody>
   <tr><td>ASIGNATUA:</td><td colspan="5">Programacion Web 1 </td></tr>
-  <tr><td>TÍTULO DE LA PRACTICA:</td><td colspan="4">Proyecto final (I Entrega) <td></tr>
+  <tr><td>TÍTULO DE LA PRACTICA:</td><td colspan="4">Proyecto final (II Entrega) <td></tr>
   <tr><td>NÚMERO DE PRÁCTICA:</td><td>Practica de Laboratorio 13</td><td>AÑO LECTIVO:</td><td>2022-B</td><td>NRO. SEMESTRE:</td><td>II</td></tr>
   <tr><td>FECHA DE PRESENTACIÓN:</td><td> 26-Dic-2022</td><td>HORA DE PRESENTACIÓN:</td><td colspan="3">6:30 p.m.</td></tr>
 
