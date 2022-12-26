@@ -44,32 +44,38 @@
  <tbody>
   <tr><td><strong>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS:</strong><br>
   <ul>
-    <h1>  Index.html  </h1> 
-      <p>Gli astrofisici dicono che quasi tutto lóro che ce sulla terra sia arrivato quatro milliardi di anni fa, in una    piogia  di meteoriti. E forse por quel arrivo cosi violento e che questo sia estato sempre un metallo maledeto, per nient'altro si a uciso cosi tanto come per il metallo usato per la proposta di matrimonio. </p>
-          <img src="img/fondo.png" width="800" height="700" />
+    <h1>  Creacion de base de datos:  </h1> 
+      <p> Crear la tabla Users: </p>
+          <img src="img/crearUsers.png"/>
+      <p> Crear la tabla Articles: </p>
+          <img src="img/crearArticles.png"/>
+          <h1>  Index.html  </h1> 
+      <p> Para el desarrollo del proyecto hemos creado HTML para cada CGI, esto es así para el ingreso de datos, ya que son formularios.</p>
+          <img src="img/indexhtml.png" />
     <h1>  cgi-bin  </h1>
       <ol> 
-          <li> <h2> Article.pl </h2> </li>
-              <p> Te mostrará la lista de todos los artículos ingresados por new.html, en este podremos eliminar y editar los articulos, <br> tambien ver la traducción markdown a HTML </p>
-                        <img src="img/list.png" width="700" height="300" />
-          <li> <h2> Delete.pl </h2> </li>
-              <p> Se representa en un botón “X” que borrará el artículo de la lista y de la base de datos </p>
-                        <img src="img/delete.png">
-          <li> <h2> Edit.pl </h2> </li>
+          <li> <h2> Register.html </h2> </li>
+              <p> Recibe los datos del formulario de new.html y los usará para crear la página HTML </p>
+                        <img src="img/registerhtml.png" />
+          <li> <h2> Login.html </h2> </li>
+              <p> Recibe los datos del formulario de new.html y los usará para crear la página HTML </p>
+                        <img src="img/loginhtml.png" />   
+          <li> <h2> New.html</h2> </li>
+              <p> T</p>
+                        <img src="img/newhtml.png" />
+          <li> <h2> List.html</h2> </li>
+              <p> ase de datos </p>
+                        <img src="img/listhtml.png">
+          <li> <h2> Article.html </h2> </li>
               <p> Se representa en un botón “E” que en un formato similar al new.html, te permitirá modificar solo el texto </p>
-                        <img src="img/edit.png">
-          <li> <h2> View.pl </h2> </li>
+                        <img src="img/articlehtml.png">
+          <li> <h2> Delete.html </h2> </li>
               <p> Traduce el markdown a lenguaje HTML </p>
-                        <img src="img/view.png">
+                        <img src="img/deletehtml.png">
           <li> <h2> New.pl </h2> </li>
               <p> Recibe los datos del formulario de new.html y los usará para crear la página HTML </p>
                         <img src="img/newpl.png" width="700" height="300" />
-           <li> <h2> Login.pl </h2> </li>
-              <p> Recibe los datos del formulario de new.html y los usará para crear la página HTML </p>
-                        <img src="img/newpl.png" width="700" height="300" />   
-          <li> <h2> Register.pl </h2> </li>
-              <p> Recibe los datos del formulario de new.html y los usará para crear la página HTML </p>
-                        <img src="img/newpl.png" width="700" height="300" />
+           
           <li> <h2> Update.pl </h2> </li>
               <p> Recibe los datos del formulario de new.html y los usará para crear la página HTML </p>
                         <img src="img/newpl.png" width="700" height="300" />         
