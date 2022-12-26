@@ -57,32 +57,54 @@
           <li> <h2> Register.html </h2> </li>
               <p> Recibe los datos del formulario de new.html y los usará para crear la página HTML </p>
                         <img src="img/registerhtml.png" />
+          <li> <h2> Register.pl </h2> </li>
+              <p> Recibe los datos del formulario de new.html y los usará para crear la página HTML </p>
+                        <img src="img/register.png" />
           <li> <h2> Login.html </h2> </li>
               <p> Recibe los datos del formulario de new.html y los usará para crear la página HTML </p>
-                        <img src="img/loginhtml.png" />   
+                        <img src="img/loginhtml.png" />  
+          <li> <h2> Login.pl </h2> </li>
+              <p> Recibe los datos del formulario de new.html y los usará para crear la página HTML </p>
+                        <img src="img/login.png" />   
           <li> <h2> New.html</h2> </li>
               <p> T</p>
                         <img src="img/newhtml.png" />
+          <li> <h2> New.pl</h2> </li>
+              <p> T</p>
+                        <img src="img/new.png" />
           <li> <h2> List.html</h2> </li>
               <p> ase de datos </p>
                         <img src="img/listhtml.png">
+          <li> <h2> List.pl</h2> </li>
+              <p> ase de datos </p>
+                        <img src="img/list.png">
+          <li> <h2> View.html</h2> </li>
+              <p> ase de datos </p>
+                        <img src="img/viewhtml.png">
+          <li> <h2> View.pl</h2> </li>
+              <p> ase de datos </p>
+                        <img src="img/view.png">
           <li> <h2> Article.html </h2> </li>
               <p> Se representa en un botón “E” que en un formato similar al new.html, te permitirá modificar solo el texto </p>
                         <img src="img/articlehtml.png">
+          <li> <h2> Article.pl </h2> </li>
+              <p> Se representa en un botón “E” que en un formato similar al new.html, te permitirá modificar solo el texto </p>
+                        <img src="img/article.png">
           <li> <h2> Delete.html </h2> </li>
               <p> Traduce el markdown a lenguaje HTML </p>
                         <img src="img/deletehtml.png">
-          <li> <h2> New.pl </h2> </li>
+          <li> <h2> Delete.pl </h2> </li>
+              <p> Traduce el markdown a lenguaje HTML </p>
+                        <img src="img/delete.png">
+          <li> <h2> Update.html </h2> </li>
               <p> Recibe los datos del formulario de new.html y los usará para crear la página HTML </p>
-                        <img src="img/newpl.png" width="700" height="300" />
-           
+                        <img src="img/updatehtml.png" />
           <li> <h2> Update.pl </h2> </li>
               <p> Recibe los datos del formulario de new.html y los usará para crear la página HTML </p>
-                        <img src="img/newpl.png" width="700" height="300" />         
+                        <img src="img/new.png" w/>         
       </ol>  
   </ul>
-  <tr><td><strong>II. CONCLUSIONES:</strong><br>- Es posible cear un recurso web de creacion de paginas con uso de expresiones regurares en perl,<br>
-     HTML y bases de datos<br> </td></tr>
+  <tr><td><strong>II. CONCLUSIONES:</strong><br>- Concluimos que los archivos CGI tienen varias funcionalidades en hacer una página web funcional, en formato HTML y XML, además del uso de la base de datos. </td></tr>
  </tbody>
 </table>
 <hr>
