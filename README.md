@@ -52,55 +52,41 @@
           <h1>  Index.html  </h1> 
       <p> Para el desarrollo del proyecto hemos creado HTML para cada CGI, esto es así para el ingreso de datos, ya que son formularios.</p>
           <img src="img/indexhtml.png" />
+    <h1> Register.html </h1> 
+           <p> Recibe los datos del formulario de new.html y los usará para crear la página HTML </p>
+                 <img src="img/registerhtml.png" />
+    <h1> Login.html </h1> 
+            <p> Recibe los datos del formulario de new.html y los usará para crear la página HTML </p>
+                 <img src="img/loginhtml.png" /> 
+    <h1> New.html</h1> 
+                  <img src="img/newhtml.png" />  
+    <h1> List.html</h1>
+                  <img src="img/listhtml.png"> 
+    <h1> View.html</h1> 
+                  <img src="img/viewhtml.png">
+    <h1> Article.html </h1> 
+                  <img src="img/articlehtml.png"> 
+    <h1> Delete.html </h1> 
+                  <img src="img/deletehtml.png"> 
+    <h1> Update.html </h1>
+                  <img src="img/updatehtml.png" />                               
     <h1>  cgi-bin  </h1>
-      <ol> 
-          <li> <h2> Register.html </h2> </li>
-              <p> Recibe los datos del formulario de new.html y los usará para crear la página HTML </p>
-                        <img src="img/registerhtml.png" />
+      <ol>  
           <li> <h2> Register.pl </h2> </li>
-              <p> Recibe los datos del formulario de new.html y los usará para crear la página HTML </p>
-                        <img src="img/register.png" />
-          <li> <h2> Login.html </h2> </li>
-              <p> Recibe los datos del formulario de new.html y los usará para crear la página HTML </p>
-                        <img src="img/loginhtml.png" />  
+                        <img src="img/register.png" />    
           <li> <h2> Login.pl </h2> </li>
-              <p> Recibe los datos del formulario de new.html y los usará para crear la página HTML </p>
                         <img src="img/login.png" />   
-          <li> <h2> New.html</h2> </li>
-              <p> T</p>
-                        <img src="img/newhtml.png" />
           <li> <h2> New.pl</h2> </li>
-              <p> T</p>
                         <img src="img/new.png" />
-          <li> <h2> List.html</h2> </li>
-              <p> ase de datos </p>
-                        <img src="img/listhtml.png">
           <li> <h2> List.pl</h2> </li>
-              <p> ase de datos </p>
                         <img src="img/list.png">
-          <li> <h2> View.html</h2> </li>
-              <p> ase de datos </p>
-                        <img src="img/viewhtml.png">
           <li> <h2> View.pl</h2> </li>
-              <p> ase de datos </p>
                         <img src="img/view.png">
-          <li> <h2> Article.html </h2> </li>
-              <p> Se representa en un botón “E” que en un formato similar al new.html, te permitirá modificar solo el texto </p>
-                        <img src="img/articlehtml.png">
           <li> <h2> Article.pl </h2> </li>
-              <p> Se representa en un botón “E” que en un formato similar al new.html, te permitirá modificar solo el texto </p>
                         <img src="img/article.png">
-          <li> <h2> Delete.html </h2> </li>
-              <p> Traduce el markdown a lenguaje HTML </p>
-                        <img src="img/deletehtml.png">
           <li> <h2> Delete.pl </h2> </li>
-              <p> Traduce el markdown a lenguaje HTML </p>
                         <img src="img/delete.png">
-          <li> <h2> Update.html </h2> </li>
-              <p> Recibe los datos del formulario de new.html y los usará para crear la página HTML </p>
-                        <img src="img/updatehtml.png" />
           <li> <h2> Update.pl </h2> </li>
-              <p> Recibe los datos del formulario de new.html y los usará para crear la página HTML </p>
                         <img src="img/new.png" w/>         
       </ol>  
   </ul>
