@@ -44,6 +44,9 @@
  <tbody>
   <tr><td><strong>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS:</strong><br>
   <ul>
+      <h1>  Video  </h1> 
+         <p>Video de demostracion del proyecto</p>
+             <h4>https://drive.google.com/file/d/1X5gcARdS-huqJwNWf3kWglNrCdokuRrC/view?usp=share_link</h4>
     <h1>  Creacion de base de datos:  </h1> 
       <p> Crear la tabla Users: </p>
           <img src="img/crearUsers.png"/>
@@ -87,7 +90,7 @@
           <li> <h2> Delete.pl </h2> </li>
                         <img src="img/delete.png">
           <li> <h2> Update.pl </h2> </li>
-                        <img src="img/new.png" w/>         
+                        <img src="img/update.png" w/>         
       </ol>  
   </ul>
   <tr><td><strong>II. CONCLUSIONES:</strong><br>- Concluimos que los archivos CGI tienen varias funcionalidades en hacer una página web funcional, en formato HTML y XML, además del uso de la base de datos. </td></tr>
